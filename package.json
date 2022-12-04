@@ -1,0 +1,19 @@
+{
+  "name": "telalogin",
+  "version": "1.0.0",
+  "description": "criando modelos de tela de login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuniorSilva88/TelaLogin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuniorSilva88/TelaLogin/issues"
+  },
+  "homepage": "https://github.com/JuniorSilva88/TelaLogin#readme"
+}
